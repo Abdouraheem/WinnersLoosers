@@ -1,2 +1,2 @@
-# dummydataproject
-Dummy project to act as a scaffold example for project 1
+# WinnersLosers
+Group 1's project
